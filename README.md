@@ -74,7 +74,8 @@ o	Игра заканчивается, показывается итоговый
 –	Git (GitHub).
 
 Шаги по установке. Склонируйте репозиторий. 
-![image](https://github.com/user-attachments/assets/17746719-52d6-49d2-b90e-c1fee3f5506d)
+![image](https://github.com/user-attachments/assets/239191ba-b30f-45ee-8b0e-6c1613c595d4)
+
 
 
 
