@@ -78,6 +78,8 @@ o	Игра заканчивается, показывается итоговый
 
 
 
+
+
 Откройте Pycharm. 
  
 ![image](https://github.com/user-attachments/assets/522829d9-a84f-4acc-9fee-e2c0531081b4)
